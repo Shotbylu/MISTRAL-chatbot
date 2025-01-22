@@ -146,4 +146,3 @@ Visit: ```https://messengerx.io/<your-character-name>```
 
 ## Notes / Additional Resources ##
 * Please note that this document isn't meant to be used as a guide for production environment setup.
-* Reach out to us on [Twitter](https://twitter.com/messengerxio) for any queries
