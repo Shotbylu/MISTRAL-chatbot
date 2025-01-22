@@ -16,7 +16,8 @@ looking to build langchain powered chatbots using [Mistral](https://huggingface.
 * Set up your new bot by providing it a `Character Name` and `Description`. 
   * Select `Custom Bot` option
   * It should look something like this:
-  * ![figure](https://github.com/machaao/machaao-py/raw/master/images/bot_setup.png?raw=true)
+  * ![bot_setup (1)](https://github.com/user-attachments/assets/e5db42e4-6559-4622-a0b0-9e450dc03158)
+
 * Click on `Save`. It will redirect you to your dashboard.
 * On your dashboard you can see your newly created bot
   * ![figure](https://github.com/machaao/machaao-py/raw/master/images/new_bot.png?raw=true)
